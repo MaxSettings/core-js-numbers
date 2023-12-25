@@ -590,7 +590,7 @@ function getRandomInteger(/* min, max */) {
  * @example:
  * 3, 4 => 5
  */
-function getHypotenuse(a, b) {
+function getHypotenuse(/* a, b */) {
   throw new Error('Not implemented');
 }
 
